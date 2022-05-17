@@ -1,5 +1,7 @@
 # Poly2Obb
 Polygon(segmentation) annotation to Oriented Bounding Box data annotation
+result is OBB box points.
+
 
 #1.Original Image
 
